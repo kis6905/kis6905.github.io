@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: LiXizhi's Personal Website
 email: lixizhi@yeah.net
@@ -32,3 +33,6 @@ markdown: kramdown
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 48d6f411d8ffc685f85146f96a8a7ffb6d3a1a5b
