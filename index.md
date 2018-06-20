@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 어쩌다보니 개발자
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+어쩌다보니 개발하고 있는 개발자입니다.

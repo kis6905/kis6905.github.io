@@ -1,7 +1,9 @@
 ---
 layout: post
+title:  "first post"
+date: 2018-06-20 13:26:00
 comments: true
-categories: diary
+categories: java
 ---
 
 ## 1번글
