@@ -1,18 +1,11 @@
 ---
 layout: post
-title:  "first post"
+title:  "spring first post"
 date: 2018-06-20 13:26:00
 comments: true
-categories: java
+categories: spring
 ---
 
-## 1번글
+## 스프링 1번글
 
-1번 글 ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-ㅏ앙아
-란ㅇ
-람
-나
-ㅏㄹ란아리;ㄴ아링ㄴㄹ;ㅣㄴㅇㄹ
-ㅁㄴ아암ㄴ
-오잉
+스프링도 어렵다!
