@@ -10,7 +10,6 @@ categories: git
 #### 1. git 저장소 생성
 <pre><code>git init my-proj
 cd my-proj
-
 </code></pre>
 <br/>
 
